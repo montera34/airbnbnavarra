@@ -1,0 +1,103 @@
+X,Y,sqft_m2,price,discount,link,rooms,address,date,addrtype,addrlocat
+-1.6363446,42.8117913,65.0,600.0,0,http://idealista.com/inmueble/29936410/,3,"calle felipe gorriti, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6409802,42.8001969,85.0,600.0,0,http://idealista.com/inmueble/38333075/,3,"La milagrosa, 1, Milagrosa, Pamplona/Iruña",2017-10-05,highway,residential
+-1.62940590343994,42.7939392,75.0,600.0,0,http://idealista.com/inmueble/38320788/,2,"tajonar, Milagrosa, Pamplona/Iruña",2017-10-05,highway,tertiary
+-1.6617057,42.8166416,80.0,675.0,0,http://idealista.com/inmueble/38317619/,3,"calle monasterio de irache, San Juan, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6314715,42.7968902,60.0,500.0,0,http://idealista.com/inmueble/1163699/,2,"calle Tajonar, Milagrosa, Pamplona/Iruña",2017-10-05,highway,tertiary
+-1.6408292,42.8070914,110.0,700.0,0,http://idealista.com/inmueble/35140648/,4,"calle Goroabe, 29, Milagrosa, Pamplona/Iruña",2017-10-05,highway,residential
+-1.654724,42.8054307,110.0,1200.0,0,http://idealista.com/inmueble/38311496/,4,"iturrama, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6467782,42.8187715,50.0,550.0,0,http://idealista.com/inmueble/38309230/,2,"calle Jarauta, 84, Casco Antiguo, Pamplona/Iruña",2017-10-05,highway,living_street
+-1.6719956,42.8061495,108.0,750.0,0,http://idealista.com/inmueble/38301748/,2,"calle Benjamín de Tudela, 21, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6590204,42.8125672,36.0,580.0,0,http://idealista.com/inmueble/38308127/,1,"avenida de Barañáin, San Juan, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6711611,42.8023188,110.0,1000.0,0,http://idealista.com/inmueble/37686395/,3,"calle Teodoro Ochoa de Alda, Echavacoiz, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6658988,42.8224722,97.0,700.0,50,http://idealista.com/inmueble/27344087/,2,"paseo Sandua, 18, San Jorge, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6711611,42.8023188,90.0,1000.0,0,http://idealista.com/inmueble/38282341/,3,"calle Teodoro Ochoa de Alda, Echavacoiz, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6658988,42.8224722,85.0,700.0,50,http://idealista.com/inmueble/33684517/,2,"paseo sandua, San Jorge, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6303015,42.802983,250.0,2000.0,0,http://idealista.com/inmueble/38294375/,4,"calle pedro fernández serrano, Lezkairu, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6658988,42.8224722,97.0,700.0,50,http://idealista.com/inmueble/27926776/,2,"paseo Sandua, San Jorge, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6303015,42.802983,243.0,2000.0,0,http://idealista.com/inmueble/38294989/,4,"calle Pedro Fernández Serrano, Lezkairu, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6303015,42.802983,243.0,2000.0,0,http://idealista.com/inmueble/38276439/,4,"calle pedro fernández serrano, Lezkairu, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6748734,42.8076334,110.0,700.0,0,http://idealista.com/inmueble/38295965/,3,"calle Ermitagaña, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6581177,42.8169737,162.0,1100.0,0,http://idealista.com/inmueble/27344730/,4,"calle del monasterio de urdax, 15, San Juan, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6355832,42.809176,80.0,1100.0,0,http://idealista.com/inmueble/35271240/,2,"plaza de la libertad, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6438667,42.8014231,81.0,625.0,0,http://idealista.com/inmueble/38174508/,2,"Miguel Astrain, Azpilagaña, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6607608,42.8138686,80.0,700.0,0,http://idealista.com/inmueble/38254961/,2,"San Juan, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6719956,42.8061495,120.0,750.0,0,http://idealista.com/inmueble/28603542/,3,"calle Benjamin de Tudela, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6367911,42.8134944,101.0,975.0,0,http://idealista.com/inmueble/38131711/,2,"avenida de la Baja Navarra, 1º Ensanche, Pamplona/Iruña",2017-10-05,highway,secondary
+-1.6719956,42.8061495,106.0,750.0,0,http://idealista.com/inmueble/38298010/,3,"calle Benjamín de Tudela, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6445926,42.806464,120.0,950.0,0,http://idealista.com/inmueble/38227600/,4,"calle Río Ega, Milagrosa, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6367911,42.8134944,96.0,975.0,0,http://idealista.com/inmueble/38110471/,2,"avenida de la Baja Navarra, 1º Ensanche, Pamplona/Iruña",2017-10-05,highway,secondary
+-1.6403652,42.8129713,135.0,850.0,50,http://idealista.com/inmueble/36267019/,4,"calle Paulino Caballero, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.654724,42.8054307,100.0,850.0,0,http://idealista.com/inmueble/37944835/,3,"Iturrama, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.624753,42.8063231,117.0,1000.0,0,http://idealista.com/inmueble/37927475/,3,"calle Isabel Garbayo Ayala, 9, Lezkairu, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6658988,42.8224722,85.0,750.0,0,http://idealista.com/inmueble/38143449/,2,"paseo Sandua, San Jorge, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6711611,42.8023188,111.0,1000.0,0,http://idealista.com/inmueble/37491153/,3,"calle Teodoro Ochoa de Alda, Echavacoiz, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6378066,42.8118888,105.0,900.0,0,http://idealista.com/inmueble/28440277/,4,"calle Tafalla, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6355832,42.809176,124.0,1200.0,0,http://idealista.com/inmueble/38131151/,3,"plaza de la Libertad, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6437424,42.8108583,156.0,1200.0,100,http://idealista.com/inmueble/38068638/,4,"PLAZAOLA, 2, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6126856,42.8117314,115.0,600.0,0,http://idealista.com/inmueble/38283223/,3,"concejo de Azpa, Mendillorri, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6385825,42.8117346,124.0,750.0,0,http://idealista.com/inmueble/38181429/,4,"2º Ensanche, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6509877,42.8260313,110.0,740.0,0,http://idealista.com/inmueble/37965014/,3,"Rochapea, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6385825,42.8117346,144.0,1100.0,0,http://idealista.com/inmueble/37356784/,3,"2º Ensanche, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6385825,42.8117346,165.0,1300.0,0,http://idealista.com/inmueble/35913746/,4,"2º Ensanche, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.655165,42.8168348,86.0,700.0,0,http://idealista.com/inmueble/38096980/,3,"calle de San Roque, 1, San Juan, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6523417,42.806225,100.0,850.0,0,http://idealista.com/inmueble/25572356/,3,"Iturrama, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6658988,42.8224722,95.0,700.0,50,http://idealista.com/inmueble/34031303/,2,"paseo sandua, San Jorge, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6126856,42.8117314,110.0,600.0,0,http://idealista.com/inmueble/38296267/,3,"calle Concejo de Azpa, Mendillorri, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6458093,42.8033145,115.0,780.0,0,http://idealista.com/inmueble/38281082/,3,"calle Río Alzania, 10, Milagrosa, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6658988,42.8224722,97.0,750.0,0,http://idealista.com/inmueble/38165957/,2,"paseo Sandua, San Jorge, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6493762,42.8225563,100.0,800.0,50,http://idealista.com/inmueble/28159488/,3,"paseo Anelier, 30, Rochapea, Pamplona/Iruña",2017-10-05,place,house
+-1.6515397,42.8034688,150.0,1100.0,0,http://idealista.com/inmueble/38000636/,4,"calle esquíroz, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.654724,42.8054307,100.0,850.0,0,http://idealista.com/inmueble/28072986/,3,"calle Iturrama, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6523417,42.806225,95.0,850.0,0,http://idealista.com/inmueble/28859535/,3,"Iturrama, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6658988,42.8224722,97.0,750.0,0,http://idealista.com/inmueble/37833716/,2,"paseo Sandua, 18, San Jorge, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6515397,42.8034688,145.0,1200.0,0,http://idealista.com/inmueble/34214003/,4,"calle esquíroz, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6534292,42.807772,150.0,1200.0,0,http://idealista.com/inmueble/26024675/,4,"calle Serafín Olave, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6735923,42.8071055,95.0,800.0,0,http://idealista.com/inmueble/38165448/,3,"calle Amado Alonso, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.670952,42.8080097,100.0,850.0,0,http://idealista.com/inmueble/38024296/,3,"irunlarrea, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6735923,42.8071055,110.0,900.0,0,http://idealista.com/inmueble/37795978/,3,"calle Amado Alonso, 1, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6634171,42.8197264,75.0,545.0,0,http://idealista.com/inmueble/25350019/,1,"calle Santa Vicenta María, 4, San Jorge, Pamplona/Iruña",2017-10-05,highway,residential
+-1.65791680045575,42.81131955,120.0,1000.0,0,http://idealista.com/inmueble/37779439/,4,"plaza san juan de la cadena, San Juan, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6696443,42.8078038,80.0,725.0,0,http://idealista.com/inmueble/25844603/,2,"paseo Premín de Iruña, 22, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.654724,42.8054307,90.0,850.0,0,http://idealista.com/inmueble/1535358/,3,"calle Iturrama, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.654724,42.8054307,95.0,1000.0,0,http://idealista.com/inmueble/28445195/,3,"calle Iturrama, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6515397,42.8034688,100.0,720.0,0,http://idealista.com/inmueble/36983045/,3,"calle Esquíroz, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.654724,42.8054307,120.0,900.0,0,http://idealista.com/inmueble/26304093/,4,"calle Iturrama, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.670952,42.8080097,115.0,850.0,0,http://idealista.com/inmueble/27714322/,4,"calle Irunlarrea, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6573867,42.8063222,90.0,700.0,0,http://idealista.com/inmueble/29601791/,3,"calle Pintor Asarta, Iturrama, Pamplona/Iruña",2017-10-05,highway,service
+-1.6515397,42.8034688,120.0,890.0,0,http://idealista.com/inmueble/34244213/,4,"calle esquíroz, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6530968,42.8040553,120.0,920.0,0,http://idealista.com/inmueble/26303928/,4,"plaza Felix Huarte, Iturrama, Pamplona/Iruña",2017-10-05,highway,footway
+-1.6552472,42.8048047,115.0,1100.0,0,http://idealista.com/inmueble/29639064/,4,"calle Iñigo Arista, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6474324,42.8067125,115.0,800.0,0,http://idealista.com/inmueble/29607036/,4,"calle San Juan Bosco, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.643974,42.8026956,120.0,800.0,0,http://idealista.com/inmueble/38057290/,4,"avenida de Zaragoza, Milagrosa, Pamplona/Iruña",2017-10-05,highway,secondary
+-1.6523417,42.806225,120.0,900.0,0,http://idealista.com/inmueble/25743115/,3,"Iturrama, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6523417,42.806225,75.0,750.0,0,http://idealista.com/inmueble/31015396/,3,"Iturrama, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6607608,42.8138686,65.0,650.0,0,http://idealista.com/inmueble/26243144/,2,"San Juan, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6547202,42.8095654,130.0,800.0,0,http://idealista.com/inmueble/33816582/,3,"avenida sancho el fuerte, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6459998,42.8284093,94.0,860.0,0,http://idealista.com/inmueble/38156563/,3,"calle vidángoz, 24, Rochapea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6363446,42.8117913,80.0,650.0,0,http://idealista.com/inmueble/31540975/,3,"amaia, 1º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6355832,42.809176,106.0,1000.0,0,http://idealista.com/inmueble/36209331/,2,"plaza de La Libertad, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6748734,42.8076334,130.0,800.0,0,http://idealista.com/inmueble/38102609/,3,"calle ermitagaña, Mendebaldea, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6523417,42.806225,189.0,1300.0,0,http://idealista.com/inmueble/37950207/,5,"Iturrama, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6437554,42.8180226,70.0,1000.0,0,http://idealista.com/inmueble/38159480/,2,"plaza consistorial, Casco Antiguo, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6445352,42.8021113,82.0,750.0,0,http://idealista.com/inmueble/37908299/,2,"calle pedro de aranaz, Azpilagaña, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6433587,42.8182364,80.0,730.0,0,http://idealista.com/inmueble/38159173/,2,"calle de la Chapitela, 22, Casco Antiguo, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6552472,42.8048047,130.0,1200.0,0,http://idealista.com/inmueble/36922946/,4,"IÑIGO ARISTA, 1, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.64122530675177,42.8183964,85.0,720.0,0,http://idealista.com/inmueble/36102478/,2,"COMPAÑIA, 21, Casco Antiguo, Pamplona/Iruña",2017-10-05,highway,pedestrian
+-1.6552472,42.8048047,120.0,900.0,0,http://idealista.com/inmueble/36797861/,3,"IÑIGO ARISTA, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6403652,42.8129713,120.0,825.0,0,http://idealista.com/inmueble/36270566/,3,"PAULINO CABALLERO, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6400564,42.8052366,90.0,525.0,0,http://idealista.com/inmueble/38076785/,3,"Milagrosa, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6385825,42.8117346,120.0,750.0,0,http://idealista.com/inmueble/38046377/,4,"2º Ensanche, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6403652,42.8129713,106.0,750.0,0,http://idealista.com/inmueble/37715750/,3,"calle paulino caballero, 2º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6737953,42.8084301,100.0,720.0,0,http://idealista.com/inmueble/38087916/,3,"Mendebaldea, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6400564,42.8052366,70.0,690.0,0,http://idealista.com/inmueble/38016904/,2,"Milagrosa, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6515397,42.8034688,110.0,825.0,0,http://idealista.com/inmueble/30346364/,3,"calle Esquíroz, 31, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6403652,42.8129713,142.0,1350.0,0,http://idealista.com/inmueble/37760489/,2,"calle Paulino Caballero, 1º Ensanche, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6509877,42.8260313,70.0,650.0,0,http://idealista.com/inmueble/38156811/,2,"Rochapea, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6737953,42.8084301,105.0,680.0,0,http://idealista.com/inmueble/37965015/,3,"Mendebaldea, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6385825,42.8117346,55.0,750.0,0,http://idealista.com/inmueble/37964574/,1,"1º Ensanche, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6400564,42.8052366,105.0,900.0,0,http://idealista.com/inmueble/37635165/,2,"Milagrosa, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6523417,42.806225,96.0,900.0,0,http://idealista.com/inmueble/37157726/,3,"Iturrama, Pamplona/Iruña",2017-10-05,boundary,administrative
+-1.6445338,42.8083956,90.0,730.0,0,http://idealista.com/inmueble/37806569/,2,"calle Abejeras, 26, Iturrama, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6442749,42.8085196,95.0,850.0,0,http://idealista.com/inmueble/36424106/,4,"calle Abejeras, 37, Milagrosa, Pamplona/Iruña",2017-10-05,highway,residential
+-1.6530968,42.8040553,125.0,850.0,0,http://idealista.com/inmueble/35443325/,4,"plaza Félix Huarte, 3, Iturrama, Pamplona/Iruña",2017-10-05,highway,footway
