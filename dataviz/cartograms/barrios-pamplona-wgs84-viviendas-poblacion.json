@@ -14,7 +14,7 @@
           "type": "Polygon",
           "properties": {
             "FEATURE": 60100017,
-            "barrio": "Azpilagaa",
+            "barrio": "Azpilagaña",
             "SECCIONES": "D 4 (1-26 la 23 no existe): 2, 11, 21, 25",
             "URL1": "http://www.pamplona.es/verPagina.asp?idPag=1521&idioma=1",
             "URL2": "http://www.pamplona.es/verPagina.asp?idPag=1522&idioma=1",
@@ -178,7 +178,7 @@
           "type": "Polygon",
           "properties": {
             "FEATURE": 60100017,
-            "barrio": "Ermitagaa-Mendebaldea",
+            "barrio": "Ermitagaña-Mendebaldea",
             "SECCIONES": "D 3 San Juan (1-27): 14, 19 a 27",
             "URL1": "http://www.pamplona.es/verPagina.asp?idPag=1521&idioma=1",
             "URL2": "http://www.pamplona.es/verPagina.asp?idPag=1522&idioma=1",
